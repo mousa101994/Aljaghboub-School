@@ -1,0 +1,6 @@
+git clone https://github.com/اسم_المستخدم/اسم_المستودع.git
+cd اسم_المستودع
+# انسخ ملفات الموقع إلى هذا المجلد
+git add .
+git commit -m "إضافة موقع مدرسة الجغبوب"
+git push origin main
